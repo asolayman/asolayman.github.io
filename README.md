@@ -10,7 +10,7 @@
 
 # Presentation
 
-I am a PhD candidate in Computer Science, specializing in the application of AI to network security. I am set to defend my thesis in April 2024, where I’ve developed innovative frameworks for evaluating and enhancing machine learning-based intrusion detection systems. My research has equipped me with deep expertise in machine learning, data-driven security solutions, and adversarial attacks. I will be available to begin work in August 2024, aligning perfectly with the start of the cohort.
+I am a PhD candidate in Computer Science, specializing in the application of AI to network security. I am set to defend my thesis in April 2024, where I’ve developed innovative frameworks for evaluating and enhancing machine learning-based intrusion detection systems. My research has equipped me with deep expertise in machine learning and security solutions. I will be available to begin work in August 2024, aligning perfectly with the start of the cohort.
 
 # Education
 
